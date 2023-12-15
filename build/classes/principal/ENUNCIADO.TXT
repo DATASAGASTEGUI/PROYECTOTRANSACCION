@@ -1,0 +1,13 @@
+7. MOSTRAR EL TOTAL VENTA DE UNA CIUDAD
+   POR CATEGORIA. DONDE CIUDAD
+   SE INGRESA POR TECLADO.
+
+SANTANDER: Electrodomestico
+           Informática
+           Audio y televisión
+
+SEVILLA: Electrodomestico
+         Informática
+         Audio y televisión
+
+       

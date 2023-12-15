@@ -1,0 +1,4 @@
+@ECHO OFF
+CHCP 65001 > NUL
+java -Dfile.encoding=UTF-8 -jar "PROYECTOTRANSACCION.jar"
+PAUSE
